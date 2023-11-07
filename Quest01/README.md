@@ -42,4 +42,5 @@
 - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
 - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 모듈화(함수화) 했는지
 - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
-!image
+- ![image](https://github.com/YounghyeonK/AIFFEL_Online_Quest/assets/149550120/2c375d2d-3698-4bab-bb44-b0ad3db61521)
+
